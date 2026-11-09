@@ -4,6 +4,14 @@
 
 ![游戏预览](docs/app-preview.png)
 
+## 游戏画面
+
+![游戏进行中 · 连吃与成长](docs/gameplay.png)
+
+| 冰封极海 | 熔岩海沟 |
+| --- | --- |
+| ![冰封极海](docs/scene-ice.png) | ![熔岩海沟](docs/scene-lava.png) |
+
 ## 玩法
 
 - 深蓝食物链：吃掉比你小的鱼成长，撞上比你大的鱼会受伤
